@@ -12,3 +12,7 @@ print(result)
 # * in the multiplication operator
 result = num2 * num1
 print(result)
+
+result = num2 // num1;
+print("the // operation result is " + str(result))
+print("the // operation result is", result)
